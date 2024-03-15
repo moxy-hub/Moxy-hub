@@ -7,7 +7,9 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  ![csdn](https://stats.justsong.cn/api/csdn?id=MY9_19)                                           <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" style="zoom: 70%;" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/>
+
+![csdn](https://stats.justsong.cn/api/csdn?id=MY9_19)
 
   <!-- profile logo 个人资料徽标 -->
 
